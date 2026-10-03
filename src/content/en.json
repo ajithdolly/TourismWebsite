@@ -1,0 +1,587 @@
+{
+  "locale": "en",
+  "meta": {
+    "title": "Baden to Backwaters | Your Kerala. Your way.",
+    "description": "Custom Kerala journeys from Germany, shaped around your interests. Mountains, backwaters, food, culture and a local guide throughout. From €2,300 per person."
+  },
+  "nav": {
+    "experiences": "Experiences",
+    "journeys": "Journeys",
+    "whyUs": "Why us",
+    "plan": "Design my journey",
+    "open": "Open menu",
+    "close": "Close menu",
+    "language": "Website language",
+    "skip": "Skip to content"
+  },
+  "hero": {
+    "eyebrow": "FROM GERMANY TO THE GOD'S OWN COUNTRY.",
+    "title": "From Baden to Backwaters.",
+    "subtitle": "Your trip. Your interests. Your pace. Your Kerala.",
+    "body": "From misty tea gardens to quiet waterways. From home cooking and living traditions to beaches, wildlife and mountain roads. Choose what moves you. We will build the journey around it.",
+    "primary": "Design my custom journey",
+    "secondary": "Explore the possibilities",
+    "price": "From €2,300 per person*",
+    "group": "Minimum 2 travellers · Private groups of 2, 4, 6, 8…",
+    "inclusions": "Flights · Visa support · Stays · Transport · Experiences · Local guide",
+    "inclusionsNote": "Inclusions are tailored to your confirmed itinerary.",
+    "scroll": "A different rhythm awaits"
+  },
+  "intro": {
+    "eyebrow": "YOUR KERALA. YOUR WAY.",
+    "title": "Choose the experience. We create the journey.",
+    "body": "Not everyone wants the same holiday. Stay longer in the mountains, learn to cook with a local host, discover a village road or let a houseboat set the pace. You do not have to choose a standard package.",
+    "promise": [
+      "You tell us what interests you.",
+      "We design the journey.",
+      "We travel with you."
+    ]
+  },
+  "landscapes": {
+    "eyebrow": "MANY KERALAS. ONE JOURNEY.",
+    "title": "From the mountains to the water. And beyond.",
+    "intro": "These are possibilities, not a fixed route. Your interests decide what comes next.",
+    "chapters": [
+      {
+        "id": "mountains",
+        "title": "Breathe a little deeper.",
+        "place": "Munnar · Western Ghats",
+        "body": "Tea gardens, cool highland air and mornings with nowhere to rush.",
+        "image": "02-munnar-tea"
+      },
+      {
+        "id": "backwaters",
+        "title": "Let the world slow down.",
+        "place": "Alappuzha · Backwaters",
+        "body": "Coconut palms, village waterways and time to simply watch the water.",
+        "image": "06-houseboat-slow-living"
+      },
+      {
+        "id": "coast",
+        "title": "Leave room for the sea.",
+        "place": "Varkala · Kerala coast",
+        "body": "Warm sand, sea breezes and evenings that belong to the sunset.",
+        "image": "09-varkala-coast"
+      }
+    ]
+  },
+  "experiences": {
+    "eyebrow": "FOLLOW YOUR CURIOSITY",
+    "title": "What kind of Kerala do you want?",
+    "body": "Start with a few favourites. There is space for discovery along the way.",
+    "add": "Add to my journey",
+    "added": "Added to my journey",
+    "details": "Explore this experience",
+    "cards": [
+      {
+        "id": "nature",
+        "title": "Nature, at your pace",
+        "body": "Walk through tea plantations, explore forests and waterfalls, watch birds and find a mountain viewpoint for sunrise.",
+        "image": "02-munnar-tea"
+      },
+      {
+        "id": "food",
+        "title": "A taste of everyday Kerala",
+        "body": "Visit a local home or selected cooking experience. Discover spices, coconut and curry leaves, then share the meal you helped prepare.",
+        "image": "03-kerala-cooking"
+      },
+      {
+        "id": "culture",
+        "title": "Traditions that tell a story",
+        "body": "Discover Kathakali, Theyyam, percussion and Kalaripayattu, with local context that helps the experience come alive. Availability depends on place and dates.",
+        "image": "04-kathakali-culture"
+      },
+      {
+        "id": "local-life",
+        "title": "Travel beyond the postcard",
+        "body": "Explore markets, village roads, local crafts and everyday food. A traditional toddy shop visit can be discussed as part of your itinerary.",
+        "image": "05-fort-kochi-local-life"
+      },
+      {
+        "id": "water",
+        "title": "Life along the water",
+        "body": "Choose an overnight houseboat stay, a quiet canoe excursion or a closer look at life beside the smaller waterways.",
+        "image": "06-houseboat-slow-living"
+      },
+      {
+        "id": "wildlife",
+        "title": "Wild moments, respectfully",
+        "body": "Observe wildlife from a respectful distance and learn about the landscape it calls home. Elephant and other wildlife sightings cannot be guaranteed.",
+        "image": "07-wild-elephants"
+      },
+      {
+        "id": "wellness",
+        "title": "Make space for stillness",
+        "body": "Add yoga, meditation, a nature retreat or time by the sea. Ayurveda experiences can be discussed with suitable local providers.",
+        "image": "11-wellness-stillness"
+      },
+      {
+        "id": "adventure",
+        "title": "Take the scenic way",
+        "body": "Trekking, cycling, canoeing, photography and guided motorcycle journeys can bring a more active rhythm to your trip.",
+        "image": "08-motorcycle-mountains"
+      }
+    ]
+  },
+  "houseboat": {
+    "title": "A night on the backwaters. A different sense of time.",
+    "body": "No rushing. Just water, coconut palms and the gentle movement of village life. Stay overnight on a traditional-style houseboat, then explore smaller waterways by canoe if you wish.",
+    "items": [
+      "Sunset cruising",
+      "Dinner and an overnight stay on board",
+      "Sunrise on the water",
+      "Kerala meals as agreed in your package",
+      "Optional village, canal and private canoe excursions"
+    ],
+    "note": "Boat type, route and inclusions are confirmed in your itinerary.",
+    "cta": "Add a houseboat stay"
+  },
+  "motorcycle": {
+    "eyebrow": "SELF-DRIVE MOTORCYCLE JOURNEYS",
+    "title": "Ride your own story.",
+    "body": "The road climbs. The air cools. Tea gardens appear between the mist. For experienced riders, we can shape a journey around scenic roads and mountain landscapes.",
+    "guide": "A local guide accompanies your motorcycle journey.",
+    "support": "Your guide helps with navigation, stops, local knowledge and practical support while you enjoy the ride.",
+    "routeLabel": "A route idea to explore",
+    "route": "Athirappilly → Mountain roads → Munnar",
+    "note": "Routes depend on conditions, rider experience and itinerary. Licence, insurance, equipment and rental requirements are confirmed during planning.",
+    "cta": "Plan my motorcycle journey"
+  },
+  "destinations": {
+    "eyebrow": "FROM SEA TO MOUNTAINS",
+    "title": "Find your own corners of Kerala.",
+    "add": "Include this place",
+    "items": [
+      {
+        "id": "varkala",
+        "name": "Varkala",
+        "body": "Cliffs, Arabian Sea sunsets, beach life and a slower coastal rhythm.",
+        "image": "23-varkala-cliff"
+      },
+      {
+        "id": "kovalam",
+        "name": "Kovalam",
+        "body": "Crescent-shaped beaches, lighthouse views and time beside the sea.",
+        "image": "19-kovalam-beach"
+      },
+      {
+        "id": "fort-kochi",
+        "name": "Fort Kochi",
+        "body": "Heritage streets, Chinese fishing nets, art, food and history.",
+        "image": "18-fort-kochi-nets"
+      },
+      {
+        "id": "alappuzha",
+        "name": "Alappuzha",
+        "body": "Backwaters, canoes, houseboats and village life.",
+        "image": "16-alappuzha-houseboat"
+      },
+      {
+        "id": "athirappilly",
+        "name": "Athirappilly",
+        "body": "Waterfalls framed by lush forest.",
+        "image": "17-athirappilly-falls"
+      },
+      {
+        "id": "munnar",
+        "name": "Munnar",
+        "body": "Tea plantations, misty mountain landscapes and cool highland air.",
+        "image": "20-munnar-sunrise"
+      },
+      {
+        "id": "thekkady",
+        "name": "Thekkady",
+        "body": "Spice plantations, forests and wildlife experiences.",
+        "image": "22-thekkady-lake"
+      },
+      {
+        "id": "wayanad",
+        "name": "Wayanad",
+        "body": "Green mountains, waterfalls, forests and rural landscapes.",
+        "image": "24-wayanad-tea"
+      },
+      {
+        "id": "north-kerala",
+        "name": "North Kerala",
+        "body": "Theyyam, Malabar cuisine and culture beyond the classic circuit.",
+        "image": "21-north-kerala-fort"
+      }
+    ]
+  },
+  "duration": {
+    "eyebrow": "ONE WEEK OR LONGER",
+    "title": "Your journey has its own rhythm.",
+    "body": "Start with a one-week escape or take more time for Kerala and a longer South India journey. More mountains, more beaches, more local life: the route can grow with your interests.",
+    "options": [
+      "7 days",
+      "10 days",
+      "14 days",
+      "21 days",
+      "Custom"
+    ],
+    "note": "Duration and route are planned together. Travel time between places is part of the experience."
+  },
+  "journeys": {
+    "eyebrow": "A STARTING POINT, NOT A FIXED PACKAGE",
+    "title": "Three ways to begin.",
+    "cta": "Make this journey mine",
+    "items": [
+      {
+        "id": "essential",
+        "name": "The Kerala Essential",
+        "duration": "From 7 days",
+        "body": "A considered introduction to Kerala's iconic landscapes and experiences.",
+        "highlights": "Kochi · Munnar · Backwaters · Coast",
+        "note": "A route idea to adapt to your dates and pace."
+      },
+      {
+        "id": "experience",
+        "name": "The Kerala Experience",
+        "duration": "10–14 days",
+        "body": "More time for local life, varied landscapes and unhurried discoveries.",
+        "highlights": "Mountains · Wildlife · Culture · Backwaters · Beaches · Food",
+        "note": "Choose fewer stops for a slower journey."
+      },
+      {
+        "id": "private",
+        "name": "Your Private Kerala",
+        "duration": "Fully custom",
+        "body": "Tell us what you love, how long you have and how you like to travel. We will create the journey from scratch.",
+        "highlights": "Your interests · Your pace · Your route",
+        "note": "There is no standard itinerary unless you want one."
+      }
+    ]
+  },
+  "guide": {
+    "eyebrow": "THE HUMAN SIDE OF THE JOURNEY",
+    "title": "We do not just book your trip. We travel with you.",
+    "body": "From arrival onwards, our local team helps you experience Kerala comfortably and confidently. You have room to explore, with someone to turn to along the way.",
+    "items": [
+      "Local knowledge and cultural context",
+      "Navigation and daily planning",
+      "Restaurants, food and local customs",
+      "Language support",
+      "Experience and transport coordination",
+      "Practical assistance and unexpected discoveries"
+    ],
+    "closing": "Independent enough to feel free. Supported enough to feel at ease."
+  },
+  "whyUs": {
+    "eyebrow": "FROM GERMANY. WITH LOCAL KNOWLEDGE.",
+    "title": "Two sides of your journey, brought together.",
+    "germanyTitle": "Confidence in the planning",
+    "germany": [
+      "Clear communication",
+      "Transparent pricing",
+      "Travel preparation",
+      "Visa application support",
+      "Flight coordination"
+    ],
+    "keralaTitle": "Connection on the ground",
+    "kerala": [
+      "Local guides and knowledge",
+      "Local food and experiences",
+      "Personal connections",
+      "Flexibility in the journey"
+    ],
+    "closing": "A Kerala experience that feels personal, comfortable and connected."
+  },
+  "inclusions": {
+    "eyebrow": "ONE JOURNEY. ONE TEAM.",
+    "title": "Bring the details together.",
+    "body": "Your package can bring the major elements of your holiday into one coordinated plan. Exact inclusions depend on your chosen itinerary.",
+    "items": [
+      "International flight tickets",
+      "Visa application support",
+      "Accommodation",
+      "Local transportation",
+      "Local guide",
+      "Meals according to the selected package",
+      "Houseboat experience",
+      "Nature and cultural experiences",
+      "Optional motorcycle adventures",
+      "Selected activities and entrance arrangements",
+      "Local support throughout the journey"
+    ],
+    "note": "Every inclusion and any optional extra is set out in your final proposal."
+  },
+  "price": {
+    "title": "Start your Kerala journey.",
+    "from": "From €2,300 per person*",
+    "group": "Minimum 2 travellers. Private groups of 2, 4, 6, 8, 10…",
+    "body": "Create your own group and we will design the experience around you, from one week to as long as you like.",
+    "cta": "Build my trip",
+    "footnote": "*Starting price is subject to travel dates, departure airport, flight availability, accommodation category, itinerary, group size and selected experiences. Final pricing is confirmed before booking."
+  },
+  "responsible": {
+    "eyebrow": "SEE MORE. RESPECT MORE.",
+    "title": "Travel with care for the places you meet.",
+    "body": "Where possible, our journeys include local guides, locally connected stays, small-group experiences, local food and businesses, respectful cultural visits and slower travel through fewer places.",
+    "wildlife": "Wildlife is observed from a respectful distance. We do not promote elephant riding or contact experiences.",
+    "closing": "Experience Kerala thoughtfully, with the people and places at the centre."
+  },
+  "process": {
+    "title": "Your journey starts before you fly.",
+    "steps": [
+      {
+        "id": "before",
+        "title": "Before you leave",
+        "body": "Journey planning, flight coordination, visa support, travel information, packing guidance, itinerary preparation and pre-trip communication."
+      },
+      {
+        "id": "arrival",
+        "title": "When you arrive",
+        "body": "Airport pickup, local introduction, hotel check-in support, guide assistance and transport coordination."
+      },
+      {
+        "id": "during",
+        "title": "Along the way",
+        "body": "Local guidance, daily assistance, experience coordination, route support, recommendations and emergency assistance."
+      },
+      {
+        "id": "home",
+        "title": "When it is time to go home",
+        "body": "Airport transfer and departure assistance to complete the journey."
+      }
+    ]
+  },
+  "menu": {
+    "eyebrow": "YOUR EXPERIENCE MENU",
+    "title": "Pick what you love.",
+    "body": "Choose as many or as few as you like. Your selections carry into the enquiry form.",
+    "selected": "{count} selected",
+    "clear": "Clear selections",
+    "continue": "Continue with my favourites",
+    "categories": [
+      {
+        "id": "nature",
+        "label": "Nature",
+        "items": {
+          "tea-plantations": "Tea plantations",
+          "forest-walks": "Forest walks",
+          "waterfalls": "Waterfalls",
+          "wildlife": "Wildlife",
+          "birdwatching": "Birdwatching",
+          "sunrise-hikes": "Sunrise hikes",
+          "mountain-viewpoints": "Mountain viewpoints"
+        }
+      },
+      {
+        "id": "culture",
+        "label": "Culture",
+        "items": {
+          "kathakali": "Kathakali",
+          "theyyam": "Theyyam",
+          "kalaripayattu": "Kalaripayattu",
+          "traditional-music": "Traditional music",
+          "temple-culture": "Temple culture",
+          "village-life": "Village experiences",
+          "local-crafts": "Local crafts"
+        }
+      },
+      {
+        "id": "food",
+        "label": "Food",
+        "items": {
+          "cooking": "Kerala cooking class",
+          "sadya": "Traditional Sadya",
+          "seafood": "Seafood",
+          "local-markets": "Local markets",
+          "spice-plantation": "Spice plantation",
+          "toddy-shop": "Toddy shop experience",
+          "home-dining": "Local home dining"
+        }
+      },
+      {
+        "id": "water",
+        "label": "Water",
+        "items": {
+          "houseboat": "Houseboat stay",
+          "private-boat": "Private boat",
+          "canoe": "Traditional canoe",
+          "backwater-village": "Backwater village tour",
+          "beach": "Beach day",
+          "coastal-sunset": "Coastal sunset"
+        }
+      },
+      {
+        "id": "wellness",
+        "label": "Wellness",
+        "items": {
+          "ayurveda": "Ayurveda",
+          "yoga": "Yoga",
+          "meditation": "Meditation",
+          "wellness-retreat": "Wellness retreat",
+          "beach-relaxation": "Beach relaxation",
+          "nature-retreat": "Nature retreat"
+        }
+      },
+      {
+        "id": "adventure",
+        "label": "Adventure",
+        "items": {
+          "motorcycle": "Motorcycle trip",
+          "self-drive": "Self-drive journey",
+          "trekking": "Trekking",
+          "cycling": "Cycling",
+          "canoeing": "Canoeing",
+          "photography": "Photography trip",
+          "mountain-roads": "Scenic mountain roads"
+        }
+      }
+    ]
+  },
+  "faq": {
+    "title": "A few things you may be wondering.",
+    "items": [
+      {
+        "q": "Is there a fixed itinerary?",
+        "a": "No. The suggested journeys are starting points. We build the route around your interests, travel dates and pace."
+      },
+      {
+        "q": "How long can we travel?",
+        "a": "From one week to a longer journey. Choose 7, 10, 14 or 21 days, or tell us the duration you have in mind."
+      },
+      {
+        "q": "Who can travel together?",
+        "a": "Couples, friends, families and private groups. The starting offer is for a minimum of two travellers; other group arrangements can be discussed."
+      },
+      {
+        "q": "What does the starting price include?",
+        "a": "Inclusions depend on the itinerary, travel dates, flights, stays and experiences. Your proposal specifies the full price and all inclusions before booking."
+      },
+      {
+        "q": "Will a local guide accompany us?",
+        "a": "Local guidance is central to the journey. Your proposal confirms the arrangements, including accompaniment for a motorcycle journey."
+      },
+      {
+        "q": "Can we include a motorcycle adventure?",
+        "a": "Yes, it can be discussed for experienced riders. The route, licence, insurance, rental and equipment requirements are confirmed during planning."
+      },
+      {
+        "q": "Are wildlife sightings and cultural events guaranteed?",
+        "a": "No. Wildlife is unpredictable, and some cultural experiences depend on season, location and local schedules. We plan suitable options for your dates."
+      },
+      {
+        "q": "Does sending an enquiry book a trip?",
+        "a": "No. It starts a conversation about your travel ideas. Final arrangements and pricing are confirmed before you book."
+      }
+    ]
+  },
+  "form": {
+    "eyebrow": "LET US CREATE YOUR JOURNEY",
+    "title": "Tell us what your Kerala looks like.",
+    "intro": "You do not need to know every destination or the perfect route. Start with what sounds exciting. We will take it from there.",
+    "steps": [
+      "Your trip",
+      "Your interests",
+      "Your details"
+    ],
+    "next": "Continue",
+    "back": "Back",
+    "edit": "Edit",
+    "optional": "Optional",
+    "required": "Required",
+    "name": "Name",
+    "email": "Email",
+    "phone": "Phone / WhatsApp",
+    "departure": "Where in Germany are you travelling from?",
+    "dates": "Preferred travel dates",
+    "flexible": "My dates are flexible",
+    "travellers": "Number of travellers",
+    "travellerOptions": [
+      "2",
+      "4",
+      "6",
+      "8",
+      "10",
+      "Other group size"
+    ],
+    "otherTravellers": "Your group size",
+    "days": "How many days would you like to travel?",
+    "customDays": "Your preferred duration",
+    "party": "Who are you travelling with?",
+    "partyOptions": {
+      "couple": "Couple",
+      "friends": "Friends",
+      "family": "Family",
+      "private-group": "Private group"
+    },
+    "interests": "What would you like to experience?",
+    "otherInterest": "Another interest",
+    "destinations": "Places you would like to include",
+    "accommodation": "Accommodation preference",
+    "accommodationOptions": {
+      "boutique": "Boutique",
+      "luxury": "Luxury",
+      "heritage": "Heritage",
+      "eco": "Eco stay",
+      "homestay": "Homestay",
+      "resort": "Resort",
+      "combination": "A combination"
+    },
+    "budget": "Approximate budget per person (€)",
+    "budgetPlaceholder": "Your estimate, or leave blank if unsure",
+    "story": "Tell us about your ideal Kerala",
+    "storyPlaceholder": "What would make this journey special for you?",
+    "consent": "I agree that Baden to Backwaters may use my details to respond to this travel enquiry.",
+    "privacyLink": "Read the privacy notice",
+    "summary": "Your journey idea",
+    "submit": "Send my travel idea",
+    "submitting": "Sending your idea…",
+    "successTitle": "Your travel idea has been sent.",
+    "successBody": "Thank you for sharing your plans. Keep your enquiry reference for your records.",
+    "reference": "Enquiry reference",
+    "error": "Your enquiry could not be sent. Your details are still here. Please try again.",
+    "demoTitle": "Online enquiries are not connected yet.",
+    "demoBody": "You can download your travel idea and keep it ready to share. Nothing has been sent.",
+    "download": "Download my travel idea",
+    "validation": {
+      "required": "Please complete this field.",
+      "email": "Please enter a valid email address.",
+      "minimum": "Please enter at least 2 travellers.",
+      "date": "Please choose a date that has not passed.",
+      "budget": "Please enter a positive amount or leave this blank.",
+      "consent": "Please confirm that we may respond to your enquiry."
+    },
+    "draftRestored": "Your saved trip preferences have been restored.",
+    "resetDraft": "Reset trip preferences",
+    "notSure": "Not sure yet",
+    "privacyUnavailable": "This preview does not collect online enquiries.",
+    "datesPlaceholder": "For example: March 2027, about two weeks",
+    "customDaysPlaceholder": "For example: 18 days"
+  },
+  "footer": {
+    "tagline": "You choose the experience. We create the journey.",
+    "brandline": "From Germany to Kerala. From tourist to traveller.",
+    "closing": "Nature. Culture. Adventure. Food. People. Your way.",
+    "legal": "Legal notice",
+    "privacy": "Privacy",
+    "contact": "Contact",
+    "imageNote": "AI-created destination imagery for inspiration. Actual places, stays and experiences are confirmed in your itinerary.",
+    "copyright": "© {year} Baden to Backwaters.",
+    "backToTop": "Back to top"
+  },
+  "a11y": {
+    "remove": "Remove {item}",
+    "selected": "Selected",
+    "step": "Step {current} of {total}",
+    "openDetails": "Open details for {item}",
+    "closeDetails": "Close experience details",
+    "downloaded": "Your travel idea is ready to download.",
+    "noSelection": "No preferences selected yet.",
+    "all": "All experiences"
+  },
+  "summary": {
+    "title": "My journey",
+    "subtitle": "Your selected experiences",
+    "send": "Send as email",
+    "edit": "Edit selection",
+    "empty": "You haven't added any experiences yet. Go back and select a few favourites.",
+    "emailSubject": "Kerala Travel Enquiry — Baden to Backwaters",
+    "emailGreeting": "Hello Baden to Backwaters team,",
+    "emailIntro": "I am interested in planning a trip to Kerala and have selected the following experiences:",
+    "emailClosing": "Please get in touch to help plan my journey.",
+    "emailSign": "Best regards"
+  }
+}
