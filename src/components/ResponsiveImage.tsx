@@ -15,7 +15,7 @@ export function ResponsiveImage({
   eager = false,
   objectPosition = 'center',
 }: ResponsiveImageProps) {
-  const base = `/images/baden/${stem}.jpg`
+  const base = `${import.meta.env.BASE_URL}images/baden/${stem}.jpg`
 
   return (
     <img
